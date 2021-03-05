@@ -1,1 +1,1 @@
-# test-django-api
+# Django recipes api
